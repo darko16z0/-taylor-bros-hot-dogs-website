@@ -15,3 +15,7 @@ This is my final project for my web design class. I am creating a website for th
 - CSS
 - JavaScript
 - Bootstrap
+
+Progress notes
+- Part 1: Outline, wireframes and style guide done!
+- Part 2: HTML structure for all 4 pages, done, with real content, images and working navigation.
